@@ -1,6 +1,5 @@
 {
   "pensamentos": [
-
     {
       "id": 1,
       "conteudo": "TESTE 1 ",
@@ -16,8 +15,14 @@
     {
       "id": 3,
       "conteudo": "TESTE 3 ",
-      "autoria": "Tiago",
+      "autoria": "Tiago 222",
       "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Aprendendo nova linguagem de programação - Node",
+      "autoria": "Torios",
+      "modelo": "modelo1",
+      "id": 4
     }
   ]
 }
